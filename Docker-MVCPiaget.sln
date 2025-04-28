@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docker-MVCPiaget", "Docker-MVCPiaget\Docker-MVCPiaget.csproj", "{39CE4941-575B-4A75-BA52-0113E2CD21AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39CE4941-575B-4A75-BA52-0113E2CD21AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CE4941-575B-4A75-BA52-0113E2CD21AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CE4941-575B-4A75-BA52-0113E2CD21AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CE4941-575B-4A75-BA52-0113E2CD21AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DE64ADE-2F5F-48BA-A0C4-0ECE2D939624}
+	EndGlobalSection
+EndGlobal
